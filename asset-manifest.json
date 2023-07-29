@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mern_Foodies_Project/static/css/main.72e48bce.css",
+    "main.js": "/Mern_Foodies_Project/static/js/main.38b54de6.js",
+    "index.html": "/Mern_Foodies_Project/index.html",
+    "main.72e48bce.css.map": "/Mern_Foodies_Project/static/css/main.72e48bce.css.map",
+    "main.38b54de6.js.map": "/Mern_Foodies_Project/static/js/main.38b54de6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72e48bce.css",
+    "static/js/main.38b54de6.js"
+  ]
+}
