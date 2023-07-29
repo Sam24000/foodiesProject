@@ -10,7 +10,7 @@ mongoDB(); // Calling the function to establish the connection
 // Middleware to handle CORS (Cross-Origin Resource Sharing)
 app.use((req, res, next) => {
     // Allowing requests from 'http://localhost:3000' origin
-    res.setHeader("Access-Control-Allow-Origin", "http://localhost:3000"),
+    res.setHeader("Access-Control-Allow-Origin", "https://foodies-frontend.onrender.com"),
         res.header(
             "Access-Control-Allow-Headers",
             "Origin, X-Requested-With, Content-Type, Accept"
