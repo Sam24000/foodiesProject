@@ -15,7 +15,7 @@ export default function Home() {
 
     // Function to fetch data from the API
     const loaddata = async () => {
-        let res = await fetch("http://localhost:5000/api/fooddata", {
+        let res = await fetch("https://foodies-wr25.onrender.com/api/fooddata", {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json'
